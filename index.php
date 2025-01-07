@@ -131,6 +131,12 @@
 
                                <div class="slideshow-container">
 
+                                    <div class="mySlides1">
+                                        <img class="picture-contain" src="img/clients/Bryan-web.png" style="width:95%"  >
+                                    </div>
+                               
+
+
                                      <div class="mySlides1">
                                         <img class="picture-contain" src="img/clients/GAA-web.png" style="width:95%"  >
                                     </div>

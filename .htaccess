@@ -9,7 +9,7 @@ allow from 104.219.139.193
 # T-Mobile Internet
 #allow from 172.59.233.0/24
 #allow from 172.56.94.64
-allow from 172.56.94.33
+allow from 172.56.89.144
 #
 # HOTA Office
 allow from 72.177.12.172
