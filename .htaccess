@@ -1,0 +1,24 @@
+
+# allow IP range by CIDR number
+order deny,allow
+deny from all
+
+# Rock Solid
+allow from 104.219.139.193
+#
+# T-Mobile Internet
+#allow from 172.59.233.0/24
+#allow from 172.56.94.64
+allow from 172.56.94.33
+#
+# HOTA Office
+allow from 72.177.12.172
+
+# Gary's home
+allow from  70.113.63.237
+
+#ErrorDocument 403 "You are not allowed."
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

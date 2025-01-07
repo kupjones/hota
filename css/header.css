@@ -1,0 +1,19 @@
+/* Style the header */
+.stickyheader {
+    position:  -webkit-sticky;
+    position:  sticky;
+    top: 0;
+    padding: 5px 8px;
+    background: #444444;
+    color: #f1f1f1;
+    width: 100%;
+    margin: auto;
+    z-index: 100
+  }
+  
+  /* Page content */
+  .content {
+    padding: 16px;
+  }
+  
+  
